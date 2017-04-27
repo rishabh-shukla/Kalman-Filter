@@ -1,7 +1,11 @@
 # Kalman-Filter
 Simulation for Kalman Filter
 
-Installing numpy
+## Installing numpy
+
+sudo pip install numpy 
+
+## Installing matplotlib
 
 $ wget https://github.com/matplotlib/matplotlib/zipball/master
 
